@@ -1,2 +1,2 @@
 # nearme2
-This is a map that is being built using AngularJS
+This is the code for a map.It was built using AngularJS
