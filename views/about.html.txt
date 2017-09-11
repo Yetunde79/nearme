@@ -1,0 +1,8 @@
+<div class="nearme2">
+  <p>... </p>
+  <h2>Near Me</h2>
+<h3>The best place to discover new places around you</h3>
+<div class="button">
+  <a href="#/"> Start exploring</a>
+</div>
+</div>

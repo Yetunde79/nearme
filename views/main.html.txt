@@ -1,0 +1,5 @@
+   <div class="container-fluid" id="map-canvas">
+     <div ng-repeat="mapMarker in mapMarkers">
+        <leaflet center="mapCenter" markers="mapMarkers"></leaflet>
+     </div>
+      </div>
